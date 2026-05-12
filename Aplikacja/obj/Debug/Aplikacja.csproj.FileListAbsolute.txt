@@ -1,0 +1,21 @@
+C:\Users\kuba\Desktop\Visual Studio\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csproj.AssemblyReference.cache
+C:\Users\kuba\Desktop\Visual Studio\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\kuba\Desktop\Visual Studio\Aplikacja\Aplikacja\bin\Debug\Aplikacja.exe.config
+C:\Users\kuba\Desktop\Visual Studio\Aplikacja\Aplikacja\bin\Debug\Aplikacja.exe
+C:\Users\kuba\Desktop\Visual Studio\Aplikacja\Aplikacja\bin\Debug\Aplikacja.pdb
+C:\Users\kuba\Desktop\Visual Studio\Aplikacja\Aplikacja\obj\Debug\Aplikacja.Okno.resources
+C:\Users\kuba\Desktop\Visual Studio\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csproj.GenerateResource.cache
+C:\Users\kuba\Desktop\Visual Studio\Aplikacja\Aplikacja\obj\Debug\Aplikacja.exe
+C:\Users\kuba\Desktop\Visual Studio\Aplikacja\Aplikacja\obj\Debug\Aplikacja.pdb
+C:\Users\kuba\Desktop\Visual Studio\Aplikacja\Aplikacja\obj\Debug\Aplikacja.Sortowanie_elementarne.resources
+D:\Aplikacja\Aplikacja\bin\Debug\Aplikacja.exe.config
+D:\Aplikacja\Aplikacja\bin\Debug\Aplikacja.exe
+D:\Aplikacja\Aplikacja\bin\Debug\Aplikacja.pdb
+D:\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csproj.AssemblyReference.cache
+D:\Aplikacja\Aplikacja\obj\Debug\Aplikacja.exe.config
+D:\Aplikacja\Aplikacja\obj\Debug\Aplikacja.Okno.resources
+D:\Aplikacja\Aplikacja\obj\Debug\Aplikacja.Sortowanie_elementarne.resources
+D:\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csproj.GenerateResource.cache
+D:\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csproj.CoreCompileInputs.cache
+D:\Aplikacja\Aplikacja\obj\Debug\Aplikacja.exe
+D:\Aplikacja\Aplikacja\obj\Debug\Aplikacja.pdb
